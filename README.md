@@ -4,6 +4,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_harshoverdose_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshoverdose_" height="30" width="40" /></a>
+
+
+  <a href="https://instagram.com/areyoutechie" target="blank">
+    <img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="areyoutechie" height="30" width="40" />
+  </a>
+  <span style="font-size: 14px; margin-left: 8px;">@Harsh | @AreYouTechie?</span>
+</p>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
